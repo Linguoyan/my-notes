@@ -71,7 +71,7 @@ V：视图 View，模板
 
 VM：视图模型 ViewModel，`Vue` 实例对象
 
-![aa](https://raw.githubusercontent.com/Linguoyan/font-end-notes/main/image/mvvm.png)
+![aa](./assets/mvvm.png)
 
 发现了什么？
 
@@ -832,7 +832,7 @@ new Vue({
 
 ## 生命周期
 
-![vue生命周期](https://github.com/Linguoyan/font-end-notes/blob/main/image/vue-life-cycle.png?raw=true)
+![vue生命周期](./assets/vue-life-cycle.png?raw=true)
 
 **常用的生命周期钩子**
 

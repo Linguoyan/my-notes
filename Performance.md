@@ -12,7 +12,7 @@ https://tinypng.com/，其原理是通过有选择性地减少图像所要存储
 
 ## 图片格式
 
-
+![图片格式](assets/image_format.png)
 
 ### JPEG/JPG
 
@@ -145,7 +145,7 @@ OSS 有个缺点：没有缓存机制，可配合 CDN 可将资源分配到最�
 4. GPU进程：3D 绘制，提高性能
 5. 插件进程：chrome 插件，每个插件占用一个进程
 
-## ![图片](https://mmbiz.qpic.cn/mmbiz_svg/5ZQ3V8nVdKqGHtgibsQKVRQfmEIGhI3zWr4A75MkibVgYlibaYPiaAt6qsGndzFeiaeibOESDdfBJBHZH3jWUxDpJtdDOfLW569iaQq/640?wx_fmt=svg&wxfrom=5&wx_lazy=1&wx_co=1)           输入 url 到页面展示的过程
+![图片](https://mmbiz.qpic.cn/mmbiz_svg/5ZQ3V8nVdKqGHtgibsQKVRQfmEIGhI3zWr4A75MkibVgYlibaYPiaAt6qsGndzFeiaeibOESDdfBJBHZH3jWUxDpJtdDOfLW569iaQq/640?wx_fmt=svg&wxfrom=5&wx_lazy=1&wx_co=1)           输入 url 到页面展示的过程
 
 
 

@@ -38,9 +38,6 @@
 
 
 
-
-![image-20220307234950214](C:\Users\lingu\AppData\Roaming\Typora\typora-user-images\image-20220307234950214.png)
-
 安装mobx、mobx-react(支持类组件 函数组件)、mobx-react-lite(支持函数组件，轻量)
 
 

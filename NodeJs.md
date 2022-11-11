@@ -113,7 +113,7 @@ Node 端事件循环中的异步队列也是这两种：`macro`（宏任务）�
 
 #### eventloop
 
-![eventloop](https://github.com/Linguoyan/font-end-notes/blob/main/image/eventloop.png?raw=true)
+![eventloop](./assets/eventloop.png)
 
 
 
